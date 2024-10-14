@@ -1,0 +1,2 @@
+[console_scripts]
+data-viz-toolkit = data_viz_toolkit.cli:main

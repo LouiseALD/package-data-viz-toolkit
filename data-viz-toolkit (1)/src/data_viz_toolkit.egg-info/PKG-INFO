@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: data-viz-toolkit
+Version: 0.1.0
+Requires-Dist: matplotlib
+Requires-Dist: pandas
+Requires-Dist: dash
+Requires-Dist: plotly
+Requires-Dist: fpdf
